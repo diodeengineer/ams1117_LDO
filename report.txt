@@ -1,0 +1,69 @@
+Info: Processing symbol 'D1:LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J1:Connector_USB:USB_Micro-AB_Molex_47590-0001'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D10.0mm_P2.50mm'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Connected J1 pin 6 to GND.
+Connected J1 pin 6 to GND.
+Connected J1 pin 6 to GND.
+Connected J1 pin 6 to GND.
+Connected J1 pin 6 to GND.
+Connected J1 pin 6 to GND.
+Changed REF** reference designator to J2.
+Connected J1 pin 6 to GND.
+Connected J1 pin 5 to GND.
+Connected J1 pin 4 to unconnected-(J1-ID-Pad4).
+Add net unconnected-(J1-ID-Pad4).
+Connected J1 pin 3 to unconnected-(J1-D+-Pad3).
+Add net unconnected-(J1-D+-Pad3).
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Connected J1 pin 1 to Net-(J1-VBUS).
+Changed J2 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J2 symbol association from  to /38904917-8ef6-4d92-a62c-f5cd4c600dcc.
+Updated J2 properties.
+Connected J2 pin 1 to Net-(D1-A).
+Connected J2 pin 2 to GND.
+Added U1 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U1.
+Changed U1 value from SOT-223-3_TabPin2 to AMS1117-3.3.
+Updated U1 symbol association from  to /2572b79c-cbf5-4377-b9e0-a34c7769643c.
+Updated U1 properties.
+Connected U1 pin 1 to GND.
+Connected U1 pin 2 to Net-(D1-A).
+Connected U1 pin 2 to Net-(D1-A).
+Connected U1 pin 3 to Net-(J1-VBUS).
+Connected C2 pin 1 to Net-(D1-A).
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D5.0mm_P2.00mm to 10uF.
+Updated C1 symbol association from  to /33b8f405-10b7-4482-b32b-6ac7f4491d0b.
+Updated C1 properties.
+Add net Net-(J1-VBUS).
+Connected C1 pin 1 to Net-(J1-VBUS).
+Add net GND.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D10.0mm_P2.50mm').
+Changed REF** reference designator to C2.
+Changed C2 value from CP_Radial_D10.0mm_P2.50mm to 22uF.
+Updated C2 symbol association from  to /782363bb-81a3-404a-9713-98a0f19b4a93.
+Updated C2 properties.
+Add net Net-(D1-A).
+Connected J1 pin 2 to unconnected-(J1-D--Pad2).
+Connected C2 pin 2 to GND.
+Added D1 (footprint 'LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder to LED.
+Updated D1 symbol association from  to /bdc87a05-ef43-4ade-ba5a-2db1e9b2c95d.
+Updated D1 properties.
+Connected D1 pin 1 to GND.
+Connected D1 pin 2 to Net-(D1-A).
+Added J1 (footprint 'Connector_USB:USB_Micro-AB_Molex_47590-0001').
+Changed REF** reference designator to J1.
+Changed J1 value from USB_Micro-AB_Molex_47590-0001 to USB_B_Micro.
+Updated J1 symbol association from  to /02c4058f-f754-45de-8813-b136c2f434b7.
+Updated J1 properties.
+Add net unconnected-(J1-D--Pad2).
+
+
+Info: Total warnings: 0, errors: 0.
